@@ -10,3 +10,11 @@
     height: 400px;
     width: 600px;
 }
+#nome{
+    height: 20px;
+    width: 100px;
+}
+#enviar{
+    background-color: black;
+    color: white;
+}
