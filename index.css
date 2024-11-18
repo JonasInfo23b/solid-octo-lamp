@@ -1,0 +1,12 @@
+#titulo{
+    color: #ff0000;
+}
+
+#texto{
+    font-weight: bolder;
+}
+
+#img_gran{
+    height: 400px;
+    width: 600px;
+}
